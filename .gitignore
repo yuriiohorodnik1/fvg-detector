@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.cursor/
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Data files
+EURUSD_1H_last_month.csv
